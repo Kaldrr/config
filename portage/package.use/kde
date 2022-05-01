@@ -1,0 +1,4 @@
+kde-plasma/plasma-meta crash-handler crypt desktop-portal discover grub kwallet networkmanager pulseaudio -sddm sdk smart wallpapers
+kde-plasma/kwin multimedia screencast
+
+kde-apps/kdecore-meta -webengine thumbnail

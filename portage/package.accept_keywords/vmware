@@ -1,0 +1,2 @@
+#always use release vmware tools
+app-emulation/open-vm-tools ~amd64

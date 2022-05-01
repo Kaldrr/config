@@ -1,0 +1,5 @@
+media-libs/opencv eigen features2d gdal gflags glog opencl opencvapps tesseract vtk
+media-sound/pulseaudio native-headset
+media-video/ffmpeg gpl libxml2 postproc libv4l libdrm amr codec2 dav1d fdk gme srt vpx
+sci-libs/hdf5 hl ros3 cxx -mpi -szip zlib -threads
+sci-libs/vtk -mpi
