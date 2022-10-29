@@ -1,0 +1,2 @@
+# Uncomment in the future, when they use latest llvm, but it will most likely fall out of sync again at some point :(
+#dev-lang/rust system-llvm

@@ -1,0 +1,4 @@
+media-sound/pulseaudio -daemon
+media-video/pipewire sound-server
+media-libs/opus custom-modes
+sci-libs/fftw -fortran

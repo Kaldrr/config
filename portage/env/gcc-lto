@@ -1,0 +1,12 @@
+# for gcc packages, should be only glibc and gcc itself
+
+CC="gcc"
+CXX="g++"
+
+CFLAGS="-flto=auto -march=native -O3 -pipe -ftree-vectorize -fomit-frame-pointer -falign-functions=64"
+CXXFLAGS="${CFLAGS}"
+LDFLAGS="-Wl,-O2 -Wl,--as-needed"
+
+AR="gcc-ar"
+NM="gcc-nm"
+RANLIB="gcc-ranlib"

@@ -1,4 +1,3 @@
-# I hate this package, qtwebengine takes 2h to build everytime
-# Just use some Chrome/Edge bin directly...
+# Disable web browsers made by KDE, they compile for ages
 dev-qt/qtwebengine
 www-client/falkon

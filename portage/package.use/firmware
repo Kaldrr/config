@@ -1,0 +1,2 @@
+sys-kernel/linux-firmware -redistributable
+sys-apps/fwupd amt archive bash-completion cbor fastboot flashrom gnutls gusb logitech lzma modemmanager nvme spi sqlite uefi tpm synaptics

@@ -1,0 +1,2 @@
+sys-devel/gcc -graphite zstd
+sys-devel/binutils -gold

@@ -1,0 +1,2 @@
+# Fails to compile, rustc would need to use system-llvm but that would require to have both llvm 14 and 15 installed
+dev-util/cargo-c

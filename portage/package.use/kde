@@ -1,4 +1,3 @@
-kde-plasma/plasma-meta crash-handler crypt desktop-portal discover grub kwallet networkmanager pulseaudio -sddm sdk smart wallpapers
-kde-plasma/kwin multimedia screencast
-
-kde-apps/kdecore-meta -webengine thumbnail
+# Doesn't work with clang, lto flags will have to be enough 
+net-misc/networkmanager -lto
+sys-process/procps modern-top

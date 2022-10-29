@@ -1,0 +1,6 @@
+# Force clang to always use llvm-tools, libc++ and such
+# When bootstrapping, first emerge clang+llvm with this, then rebuild rest of your system.
+sys-devel/clang-common llvm-libunwind default-compiler-rt default-libcxx default-lld
+sys-devel/clang extra 
+sys-devel/clang-toolchain-symlinks native-symlinks
+sys-devel/llvm binutils-plugin exegesis ncurses xar z3

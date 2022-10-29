@@ -1,2 +1,1 @@
-dev-qt/qt-creator autotest autotools beautifier clang cmake cppcheck ctfvisualizer designer glsl lps modeling perfprofiler serialterminal silversearcher valgrind
-dev-qt/qtgui egl eglfs evdev libinput tuio
+dev-qt/qtgui egl

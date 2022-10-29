@@ -1,2 +1,2 @@
-sys-libs/ncurses -gpm
-media-libs/mesa -vaapi
+# Needed to flatpak, Steam requires 32 bit binaries and we don't want to pollute our system with it. 
+sys-apps/bubblewrap -suid
