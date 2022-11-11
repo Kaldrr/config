@@ -1,0 +1,7 @@
+app-emulation/qemu aio alsa bpf capstone curl fdt glusterfs gnuls iscsi io-uring jemalloc multipath nfs pin-upstream-blobs slirp spice usb usbredir vde vhost-net vhost-user-fs virtfs xattr
+
+net-misc/spice-gtk usbredir
+net-dns/dnsmasq script
+# dtrace pulls in systemtap, which uses gcc internals...
+app-emulation/libvirt -dtrace firewalld fuse glusterfs libvirtd lvm libssh2 lxc nfs openvz virt-network
+

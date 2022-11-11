@@ -1,4 +1,4 @@
 media-sound/pulseaudio -daemon
-media-video/pipewire sound-server
+media-video/pipewire sound-server echo-cancel
 media-libs/opus custom-modes
 sci-libs/fftw -fortran

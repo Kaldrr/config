@@ -4,3 +4,5 @@ sys-devel/clang-common llvm-libunwind default-compiler-rt default-libcxx default
 sys-devel/clang extra 
 sys-devel/clang-toolchain-symlinks native-symlinks
 sys-devel/llvm binutils-plugin exegesis ncurses xar z3
+# Fails to compile with python right now?
+dev-util/lldb -python
